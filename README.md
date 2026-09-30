@@ -1,5 +1,4 @@
 # About_Me
-About Me
 Hi, I'm Bilal Azmi
 Aspiring Cybersecurity, SOC, Network, and NOC Analyst focused on network monitoring, incident response, threat detection, troubleshooting, and security operations.
 
@@ -43,17 +42,11 @@ SOC Investigation Reports
 Vulnerability Assessment Lab
 Python Security Automation
 Contact
-LinkedIn: [Add LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/bilal-azmi
 
-Email: [Professional Email]
+Email: bilal.azmi88@Qmail.cuny.edu
 
-Best Pinned Repositories for Your Goals
-Instead of machine learning forks, pin projects like:
-
-1. Network-Monitoring-Lab
-For NOC & Network Analyst
-
-Contents:
+1. Contents:
 
 Network topology
 Monitoring screenshots
