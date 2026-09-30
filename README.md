@@ -54,6 +54,7 @@ Network topology
 Monitoring screenshots
 Alert examples
 Troubleshooting documentation
+
 2. Wireshark-Investigations
 Contents:
 
@@ -61,6 +62,7 @@ Packet captures
 DNS analysis
 HTTP analysis
 Suspicious traffic findings
+
 3. SOC-Alert-Investigations
 Contents:
 
@@ -68,12 +70,14 @@ Alert
 Investigation steps
 Findings
 Containment recommendations
+
 4. Vulnerability-Assessment-Lab
 Contents:
 
 Nmap scans
 Risk assessment
 Remediation recommendations
+
 5. Python-Network-Automation
 Contents:
 
