@@ -41,7 +41,9 @@ Wireshark Traffic Analysis
 SOC Investigation Reports
 Vulnerability Assessment Lab
 Python Security Automation
+
 Contact
+
 LinkedIn: https://www.linkedin.com/in/bilal-azmi
 
 Email: bilal.azmi88@Qmail.cuny.edu
